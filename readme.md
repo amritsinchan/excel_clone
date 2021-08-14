@@ -1,0 +1,1 @@
+With a UI similar to Microsoft Excel, this clone built using \textbf{JQuery, DOM and browser APIs} performs all basic formatting operations of Excel. Has an operational \textbf{formula bar} (implemented using graph theory) to perform unique mathematical operations. Allows the user to save, view and upload files.
